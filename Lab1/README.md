@@ -1,14 +1,14 @@
 <!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
+  Name: Gaurav Raj Singh 
+  Roll No: BCS2025352
   Assignment: 1 - Your First JavaScript Script
 -->
 
 # Assignment 1: Your First JavaScript Script
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
-**Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
+**Name:** Gaurav Raj Singh 
+**Roll No:** BCS2025352
+**Subject:** JavaScript Programming Lab (BCS352), Invertis University, Bareilly
 
 ## Aim
 Run a script in the browser and with Node, and declare values with const and let.
