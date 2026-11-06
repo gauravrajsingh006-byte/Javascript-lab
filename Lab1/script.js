@@ -1,6 +1,6 @@
 /*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
+  Name: Gaurav Raj Singh 
+  Roll No: BCS2025352
   Assignment: 1 - Your First JavaScript Script
 */
 
